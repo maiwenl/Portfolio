@@ -7,8 +7,8 @@ import { KEY_CODES } from '@utils';
 import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
-const StyledJobsSection = styled.section`
-  max-width: 700px;
+const StyledStudiesSection = styled.section`
+  max-width: 1000px;
 
   .inner {
     display: flex;
@@ -243,7 +243,7 @@ const Studies = () => {
   };
 
   return (
-    <StyledJobsSection id="jobs" ref={revealContainer}>
+    <StyledStudiesSection id="studies" ref={revealContainer}>
       <h2 className="numbered-heading">Formations</h2>
 
       <div className="inner">
@@ -305,7 +305,7 @@ const Studies = () => {
             })}
         </StyledTabPanels>
       </div>
-    </StyledJobsSection>
+    </StyledStudiesSection>
   );
 };
 

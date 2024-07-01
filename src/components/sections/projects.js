@@ -265,7 +265,7 @@ const Projects = () => {
   };
 
   return (
-    <StyledProjectsSection>
+    <StyledProjectsSection id="projects">
       <h2 className="numbered-heading" ref={revealTitle}>
         Mes projets
       </h2>
