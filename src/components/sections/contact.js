@@ -55,9 +55,9 @@ const Contact = () => {
 
   return (
     <StyledContactSection id="contact" ref={revealContainer}>
-      <h2 className="numbered-heading overline">What’s Next?</h2>
+      <h2 className="numbered-heading overline">Ensuite ?</h2>
 
-      <h2 className="title">Get In Touch</h2>
+      <h2 className="title">Me contacter</h2>
 
       <p>
         Actuellement en alternance chez <a href="https://www.rbi-informatique.fr/">RBI</a> jusqu'à
