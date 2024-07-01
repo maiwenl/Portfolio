@@ -41,6 +41,11 @@ const StyledProjectsSection = styled.section`
     ${({ theme }) => theme.mixins.button};
     margin: 80px auto 0;
   }
+
+  .email-link {
+    ${({ theme }) => theme.mixins.bigButton};
+    margin-top: 50px;
+  }
 `;
 
 const StyledProject = styled.li`
@@ -180,7 +185,6 @@ const Projects = () => {
             frontmatter {
               title
               tech
-              github
               external
             }
             html
@@ -190,7 +194,7 @@ const Projects = () => {
     }
   `);
 
-  const [showMore, setShowMore] = useState(false);
+  const [showMore] = useState(false);
   const revealTitle = useRef(null);
   const revealArchiveLink = useRef(null);
   const revealProjects = useRef([]);
@@ -301,12 +305,8 @@ const Projects = () => {
           </TransitionGroup>
         )}
       </ul>
-
-      <button className="more-button" onClick={() => setShowMore(!showMore)}>
+      <Link className="email-link" to="/archive" ref={revealArchiveLink}>
         En voir plus
-      </button>
-      <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        view the archive
       </Link>
     </StyledProjectsSection>
   );
