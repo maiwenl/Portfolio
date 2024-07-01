@@ -1,11 +1,11 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "Portfolio",
+  "description": "Portfolio réalisé dans le cadre du module de retour d'expérience à l'ESIEA.",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Maïwen LAVOLEE <lavolee.maiwen@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://maiwenl.github.io/portfolio-maiwen/"
   },
   "keywords": [
     "gatsby"
