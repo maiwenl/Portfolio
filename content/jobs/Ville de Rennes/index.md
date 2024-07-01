@@ -8,5 +8,5 @@ url: 'https://metropole.rennes.fr/'
 ---
 
 - Animation, surveillance et encadrement d'enfants âgés de 4 à 7 ans.
-- Animation au sein de l'accueil de loisir et en sortie.
-- Titulaire du BAFA - approfondisement travaux manuels.
+- Animation au sein de l'accueil de loisirs et en sortie.
+- Titulaire du BAFA - approfondissement travaux manuels.

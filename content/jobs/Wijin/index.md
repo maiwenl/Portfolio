@@ -11,4 +11,4 @@ url: 'https://www.wijin.tech/'
 - Maquettage de l'application avec Figma.
 - Modélisation de l'application en UML.
 - Gestion de projet avec un cadre agile Scrum.
-- Flutter Web, Node.Js, NestJs, Firebase, MongoDB, Git, Figma, Gitlab
+- Technologies utilisées : Flutter Web, Node.Js, NestJs, Firebase, MongoDB, Git, Figma, Gitlab

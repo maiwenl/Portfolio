@@ -141,10 +141,10 @@ const About = () => {
               RBI à Rennes.
             </p>
             <p>
-              Par le passé, j'ai eu l'opportunité de travailler à{' '}
-              <a href="https://dtaxback.com/fr/">Digital Taxback</a>, une start-up qui poropose une
-              solution de détaxe.
-              <a href="https://www.wijin.tech/">Wijin</a> une entreprise de services numériques.
+              Par le passé, j'ai eu l'opportunité de travailler chez{' '}
+              <a href="https://dtaxback.com/fr/">Digital Taxback</a>, une start-up qui propose une
+              solution de détaxe et <a href="https://www.wijin.tech/">Wijin,</a> une entreprise de
+              services numériques.
             </p>
 
             <p>Voici les technologies avec lesquelles j'ai travaillé récemment :</p>
