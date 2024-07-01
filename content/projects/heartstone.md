@@ -8,4 +8,4 @@ company: 'Les mains dans le sable - ESIEA'
 showInProjects: true
 ---
 
-projet étudiant de développement d'une copie du jeu Hearthstone en C++. Le projet a été réalisé en groupe de 4 personnes.
+Projet étudiant de développement d'une copie du jeu Hearthstone en C++. Le projet a été réalisé en groupe de 4 personnes.

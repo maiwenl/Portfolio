@@ -10,5 +10,5 @@ url: 'https://www.kmutt.ac.th/en/'
 - Programmation Web
 - Intelligence artificielle
 - Thaï
-- Culture thaï
+- Culture thaïlandaise
 - Communication interculturelle

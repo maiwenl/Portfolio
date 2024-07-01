@@ -1,6 +1,6 @@
 ---
 date: '2020-10-01'
-title: 'Site web commité de jummelage Vannes-Cuxhaven'
+title: 'Site web comité de jummelage Vannes-Cuxhaven'
 external: 'https://vannes-cux.fr/'
 tech:
   - WordPress
