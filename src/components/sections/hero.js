@@ -65,27 +65,21 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        Je suis étudiante en cycle ingénieur à l'
+        <a href="https://www.esiea.fr/" target="_blank" rel="noreferrer">
+          ESIEA
+        </a>{' '}
+        et j'effectue en parallèle un apprentissage à{' '}
+        <a href="https://www.rbi-informatique.fr/" target="_blank" rel="noreferrer">
+          RBI
+        </a>{' '}
+        en tant que chargée d'etudes. Bienvenue sur mon portfolio où vous pourrez découvrir mes
+        expériences, formations et projets.
       </p>
     </>
   );
-  const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
-    </a>
-  );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>
