@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Maïwen LAVOLEE',
     description: 'Portfolio réalisé dans le cadre du module de retour d\'expérience à l\'ESIEA.',
-    siteUrl: 'https://maiwenl.github.io/portfolio-maiwen/', // No trailing slash allowed!
+    siteUrl: 'https://maiwenl.github.io/Portfolio/', // No trailing slash allowed!
     image: '', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
